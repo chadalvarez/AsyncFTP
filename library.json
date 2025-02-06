@@ -1,0 +1,26 @@
+{
+  "name": "AsyncFTP",
+  "version": "1.0.0",
+  "description": "Asynchronous FTP server library for ESP32 (active/passive).",
+  "keywords": [
+    "ftp",
+    "async",
+    "esp32",
+    "server"
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/chadalvarez/AsyncFTP"
+  },
+  "authors":
+  [
+    {
+      "name": "CHAD",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
